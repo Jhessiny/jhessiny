@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Hey!
 
-### I'm Jhéssiny
+### I'm Jhéssiny Mattos
 
 Web Development Student, graduating in Software Engineering. I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. 
 
