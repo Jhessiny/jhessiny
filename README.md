@@ -43,7 +43,7 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
 ### CONTACT ME:
 
-<a target="_blank" href="https://www.linkedin.com/in/jhessiny/">
+<a target="_blank" href="https://www.linkedin.com/in/jhessiny-mattos/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?L=pt&phone=5541992480643">
