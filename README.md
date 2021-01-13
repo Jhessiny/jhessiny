@@ -33,14 +33,6 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 </p>
 
 
-<br>
-<table>
-    <tr>
-        <td><img width="463px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhessiny&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
-        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api/?username=jhessiny&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/></td>
-    </tr>   
-</table>
-<br>
 
 ### CONTACT ME:
 
