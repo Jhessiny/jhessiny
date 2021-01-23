@@ -2,7 +2,7 @@
 
 ### I'm Jhéssiny Mattos
 
-Web Development Student, graduating in Software Engineering. I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. 
+I'm a junior front end web developer, graduating in Software Engineering.
 
 
 <h2 align="center"> Primarily using: </h2>
