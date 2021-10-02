@@ -2,7 +2,7 @@
 
 ### I'm Jhéssiny Mattos
 
-I'm a web developer, graduating in Software Engineering. I'm passionate about technology and its power to change people's lives.
+I'm a web developer and I'm passionate about technology and its power to change people's lives.
 
 
 <h2 align="center"> Primarily using: </h2>
